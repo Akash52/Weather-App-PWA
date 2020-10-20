@@ -1,6 +1,6 @@
 <p align="center">
 
-<h2 align="center">Project Title</h2>
+<h2 align="center">Weather App PWA(Progressive Web Apps)</h2>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> In these app we used react and its make hybrid we used Progressive Web Apps Technology.
     <br> 
 </p>
 
@@ -29,7 +29,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+these project purpose make hybrid and lightweight application,
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
